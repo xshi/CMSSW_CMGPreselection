@@ -1,4 +1,4 @@
 <bin file="preselection.cpp" name="preselectionHZZ2l2nu">
-	<use name="HiggsAnalysis/MyPreselection"/>
+	<use name="HiggsAnalysis/CMGPreselection"/>
 	<use name="root"/>
 </bin>
