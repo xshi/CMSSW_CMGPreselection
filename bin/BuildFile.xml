@@ -1,0 +1,4 @@
+<bin file="preselection.cpp" name="preselectionHZZ2l2nu">
+	<use name="HiggsAnalysis/MyPreselection"/>
+	<use name="root"/>
+</bin>
